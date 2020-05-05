@@ -1,4 +1,4 @@
-# Building-Stream-Problem
+# Building Stream Problem
 
 This code contains multiple Stream Operations.
 
