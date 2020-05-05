@@ -33,3 +33,6 @@ long amountList = listOfBuildings.stream()
     .mapToLong(Collection::size)
     .sum();
 ```
+
+
+[Helpful Source about Streams](https://stackify.com/streams-guide-java-8/)
